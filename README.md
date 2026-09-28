@@ -60,4 +60,4 @@ todo-list/
 
 ## 👤 Autor
 
-**Marcos Silari**, estudante de Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul.
+**Marcos Silvari**, estudante de Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul.
